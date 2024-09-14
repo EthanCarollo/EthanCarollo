@@ -1,2 +1,1 @@
-
-![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=EthanCarollo)
+![perfect rat](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWU5OTQ2MzB0cmVkbHhmaWJ5N3gxdjF2ejAxZGN5NHZsdGdhcTR2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy-downsized.gif)
