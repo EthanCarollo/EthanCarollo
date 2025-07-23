@@ -1,1 +1,1 @@
-![chill monkey](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9xNHprd3ZtNHY0d28ycDlzdHk3dXNkM3J3b2ZweGtsaXV6bDhwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1wqYonEBtues7jlngs/giphy.gif)
+![Monkey Business GIF by namslam](https://github.com/user-attachments/assets/15f59fe7-834f-4247-bc7a-9758b6ec073c)
