@@ -1,1 +1,16 @@
-![5a8f7ec260dcbd04fc8e79bd34aa14a3-ezgif com-crop](https://github.com/user-attachments/assets/b636c0af-9ada-4e4f-a94d-d6a47ad83c46)
+<pre>
+$ <span style="color:#7dd3fc;">whoami</span>
+<div align="center">
+┌───────────────────────────────────────────────────────────────────────┐
+│   &gt; <span style="color:#f472b6;">Ethan Carollo</span>                                                     │
+└───────────────────────────────────────────────────────────────────────┘
+</div>
+
+$ <span style="color:#7dd3fc;">cat role.txt</span>
+<div align="center">
+┌───────────────────────────────────────────────────────────────────────┐
+│   &gt; <span style="color:#a78bfa;">Polyvalent Developer</span>                                              │
+└───────────────────────────────────────────────────────────────────────┘
+</div>
+<span style="color:#7dd3fc;">$ █</span>
+</pre>
